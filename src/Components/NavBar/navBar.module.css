@@ -1,0 +1,9 @@
+.navBar {
+    display:flex;
+}
+
+.navImg {
+    max-width: 50px;
+    display: flex;
+    
+}
